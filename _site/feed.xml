@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>juntao's blog</title>
+		<description>just be simple</description>
+		<link>http://liujuntao.com</link>
+		<atom:link href="http://liujuntao.com/feed.xml" rel="self" type="application/rss+xml" />
+		
+			<item>
+				<title>开始使用git pages</title>
+				<description>&lt;p&gt;自从不想自己维护一个wordpress站点之后，有很长的一段时间没有写blog。&lt;/p&gt;
+
+&lt;p&gt;豆瓣日记上写了几篇，但是也不甚满意。&lt;/p&gt;
+
+&lt;p&gt;今次用git pages，想要坚持一段时间的。&lt;/p&gt;
+</description>
+				<pubDate>Mon, 17 Aug 2015 00:00:00 +0000</pubDate>
+				<link>http://liujuntao.com/2015/08/start-git-pages</link>
+				<guid isPermaLink="true">http://liujuntao.com/2015/08/start-git-pages</guid>
+			</item>
+		
+	</channel>
+</rss>
