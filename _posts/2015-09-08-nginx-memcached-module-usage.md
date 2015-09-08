@@ -39,21 +39,19 @@ import pylibmc
 import web
 
 urls = (
-'/(.*)', 'Index'
+    '/(.*)', 'Index'
 )
 app = web.application(urls, globals())
 
-mc = pylibmc.Client(["127.0.0.1"], binary=True,
-behaviors={"tcp_nodelay": True,
-"ketama": True})
+mc = pylibmc.Client(["127.0.0.1"], binary=True, behaviors={"tcp_nodelay": True, "ketama": True})
 
 
 class Index:
-def GET(self, name):
-data =  str(time.time())
-mc.set(web.ctx['env']['REQUEST_URI'], data, time=5)
-return data
+    def GET(self, name):
+	    data =  str(time.time())
+		mc.set(web.ctx['env']['REQUEST_URI'], data, time=5)
+		return data
 
 if __name__ == "__main__":
-app.run()
+    app.run()
 ```
