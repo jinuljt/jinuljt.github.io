@@ -12,7 +12,8 @@ nginx模块的表现和我最初的想法有些不同，还是需要服务端程
 ![架构图](/images/2015-09/nginx_memcached.png)
 
 **Nginx 配置**
-n```
+
+```
 server {
     location / {
 	    set            $memcached_key "request_uri";
@@ -29,6 +30,7 @@ server {
 ```
 
 **服务端程序**
+
 ```
 import time
 
