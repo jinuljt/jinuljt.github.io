@@ -9,7 +9,7 @@ comments: true
 nginx模块的表现和我最初的想法有些不同，还是需要服务端程序参与这个缓存的过程。我原先想的是，nginx可以把memcached层屏蔽掉。我觉得可以使用[lua模块](http://wiki.nginx.org/HttpLuaModule)来做到这件事情。有空可以尝试一下。
 
 
-![架构图](/images/201509/nginx_memcached.png)
+![架构图](/images/2015-09/nginx_memcached.png)
 
 **Nginx 配置**
 n```
