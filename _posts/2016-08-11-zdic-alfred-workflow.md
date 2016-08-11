@@ -3,7 +3,7 @@ layout: post
 title: "zdic alfred workflow"
 ---
 
-最近一段时间有点迷[昆剧](https://zh.wikipedia.org/zh/%E6%98%86%E6%9B%B2)。第一次在上海朱家角古镇看了"[实景园林昆曲《牡丹亭》](http://baike.baidu.com/link?url=qu48I2LDiMKj7k0J4OQAFY4r51JhLDidMof3gcw9VvJ_qB2ag74wheptOzkc3X1OOa1vrli5JIRmkueefMi-iiVDnk3WD-SW2XQHwwr2t89zmrdgH05hB42Hh4nCwSy7IBKz7WYc7RkaJfHoXbB5YimWqZS8C85AST0BJvS0ZMzXPYFCzIK3uvd16-nXM65l6k-tFXIFUB_h5SwQkndAMhIqGp6BYKobQ04TnGeGWxje4sfWt1DBVxsfqMJmZIxfFt_ZOJh7yIyvcrSfm4BAoq)"。在园林中辟出一块山水亭台具备之地，美轮美奂，优雅非常。我独爱昆曲的优雅。嗯，我骨子里是一个附庸风雅的人。
+最近一段时间有点迷[昆剧](https://zh.wikipedia.org/zh/%E6%98%86%E6%9B%B2)。第一次在上海朱家角古镇看了"[实景园林昆曲《牡丹亭》](http://baike.baidu.com/subview/39853/10758244.htm)"。在园林中辟出一块山水亭台具备之地，美轮美奂，优雅非常。我独爱昆曲的优雅。嗯，我骨子里是一个附庸风雅的人。
 
 因为看昆曲所以最近有在看[汤显祖](https://zh.wikipedia.org/wiki/%E6%B1%A4%E6%98%BE%E7%A5%96)的临川四梦，所以我就遇到很多生僻字。也经常有用[汉典](www.zdic.net)，于是就萌发了做一个[zdic alfred workflow](https://github.com/jinuljt/zdic.alfredworkflow) 的想法。
 
