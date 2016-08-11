@@ -13,3 +13,6 @@ title: "zdic alfred workflow"
 项目是用python开发的，用到了一个开发alfred workflow的python框架。东西很简单，就是用requests获取网页数据，然后用beatifulsoup处理html。可以在github中直接下载到export出来的workflow，下载之后即可直接是用。
 
 
+使用方式也很简单，keyword是 "z"，之后输入想要查询的中文字即可。
+
+![z 饕](/images/2016/zdic.1.png)
